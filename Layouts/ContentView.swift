@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State private var messageString = "yo"
+    @State private var messageString = "hen the Genius Bar Needs Help, They Call You!"
     
     var body: some View {
         VStack {
